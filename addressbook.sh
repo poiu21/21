@@ -76,3 +76,5 @@ while true; do
         *) echo "Invalid choice. Please try again." ;;
     esac
 done
+#chmod +x address_book.sh
+#./address_book.sh
